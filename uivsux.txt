@@ -1,0 +1,11 @@
+User interface (UI)  is something that use to interact with a device on screens and pages such as buttons and icons.
+
+User experience (UX) is something that is the internal experience that a person has as they interact with every aspect of a 
+company products and sevices.
+
+the differences is that the UI(User Interface) focused how the surface of the products looks and how it works, such as a search buttons and logos and graph, 
+and UX(User Experience) focus on about how to solve a problem both positive and negative, both on-screen and off.
+
+For example on facebook that ui is like a logo, text and looks on the page, but when you click on something link there or search something on facebook search
+you will find something like stranger profile, groups, events and facebook pages under two seconds, and also when u comment something 
+and click send, and that's how ux works.
